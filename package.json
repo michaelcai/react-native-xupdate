@@ -1,7 +1,8 @@
 {
-  "name": "@xl/react-native-xupdate",
+  "name": "@xinglian/react-native-xupdate",
   "description": "A React-Native plugin for XUpdate(Android Version Update Library).",
-  "version": "1.0.0",
+  "private": false,
+  "version": "1.0.1",
   "type": "index.d.ts",
   "main": "index.js",
   "scripts": {

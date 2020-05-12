@@ -9,11 +9,11 @@ A React-Native plugin for XUpdate(Android Version Update Library).
 
 ## Getting started
 
-`$ npm install react-native-xupdate-new --save`
+`$ npm install @xinglian/react-native-xupdate --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-xupdate-new`
+`$ react-native link @xinglian/react-native-xupdate`
 
 ### Manual installation
 
