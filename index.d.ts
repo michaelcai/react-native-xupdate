@@ -1,4 +1,4 @@
-declare module 'react-native-xupdate-new' {
+declare module '@xinglian/react-native-xupdate' {
   ///XUpdate初始化参数
   export class InitArgs {
     debug: boolean
